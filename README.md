@@ -38,6 +38,10 @@ Toxicity
 A rewrite of the original Toxicity chart in Javascript using D3.js 
 https://github.com/softvis/toxicity-reloaded
 
+gource
+---
+Software projects are displayed by Gource as an animated tree with the root directory of the project at its centre. Directories appear as branches with files as leaves. Developers can be seen working on the tree at the times they contributed to the project.
+https://gource.io/
 
 API
 ===
