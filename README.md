@@ -75,7 +75,7 @@ Tracing
 
 opentracing
 ---
-[Vendor-neutral](https://opentracing.io/) APIs and instrumentation for distributed tracing
+[OpenTracing](https://opentracing.io/) is a tool for Vendor-neutral APIs and instrumentation for distributed tracing
 
 Zipkin
 ---
