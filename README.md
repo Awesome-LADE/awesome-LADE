@@ -13,6 +13,7 @@ LADE: Large Architecture Digitalize Evolutionary
     * [Go City (Go)](#go-city-go)
     * [Toxicity](#toxicity)
     * [Tequila](#tequila)
+    * [ArchUnit](#archunit)
 * [Version Control System (VCS) Analysis](#version-control-system-vcs-analysis)
     * [Gource](#gource)
     * [Code Maat](#code-maat)
