@@ -14,6 +14,7 @@ LADE: Large Architecture Digitalize Evolutionary
     * [Toxicity](#toxicity)
     * [Tequila](#tequila)
     * [ArchUnit](#archunit)
+    * [blast-radius](#blast-radius)
 * [Version Control System (VCS) Analysis](#version-control-system-vcs-analysis)
     * [Gource](#gource)
     * [Code Maat](#code-maat)
@@ -64,6 +65,10 @@ Tequila
 ArchUnit
 ---
 [ArchUnit](https://www.archunit.org/) can unit test your Java architecture
+
+blast-radius
+---
+[blast-radius](https://github.com/28mm/blast-radius) is a Interactive visualization tool of Terraform dependency graphs using d3.js
 
 Version Control System (VCS) Analysis
 ===
