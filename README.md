@@ -17,6 +17,7 @@ LADE: Large Architecture Digitalize Evolutionary
 * [Version Control System (VCS) Analysis](#version-control-system-vcs-analysis)
     * [Gource](#gource)
     * [Code Maat](#code-maat)
+    * [Linguist](#linguist)
 * [Tracing](#tracing)
     * [opentracing](#opentracing)
     * [Zipkin](#zipkin)
