@@ -53,6 +53,11 @@ Toxicity
 ---
 [Toxicity](https://github.com/softvis/toxicity-reloaded) a rewrite of the original Toxicity chart in Javascript using D3.js
 
+
+Tequila
+---
+[Tequila](https://github.com/newlee/tequila) is a visualization tool to compare DDD Model with code
+
 Version Control System (VCS) Analysis
 ===
 
