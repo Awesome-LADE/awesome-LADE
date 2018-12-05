@@ -28,9 +28,7 @@ Architecture Model
 
 C4-PlantUML
 ---
-C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures 
-
-https://github.com/RicardoNiepel/C4-PlantUML
+[C4-PlantUML](https://github.com/RicardoNiepel/C4-PlantUML) combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures 
 
 Architecture Analysis
 ===
@@ -45,68 +43,48 @@ package structure, dependency matrices, tangles, coupling / cohesion
 
 slizaa
 ---
-A Free and Open Source Workbench for Software Dependency Analysis.
-
-http://www.slizaa.org/
+[slizaa](http://www.slizaa.org/) A Free and Open Source Workbench for Software Dependency Analysis.
 
 Go City (Go)
 ---
-Code City metaphor for visualizing Go source code in 3D
-
-https://github.com/rodrigo-brito/gocity
+[Gocity](https://github.com/rodrigo-brito/gocity) is a Code City metaphor for visualizing Go source code in 3D
 
 Toxicity
 ---
-A rewrite of the original Toxicity chart in Javascript using D3.js
-
-https://github.com/softvis/toxicity-reloaded
+[Toxicity](https://github.com/softvis/toxicity-reloaded) a rewrite of the original Toxicity chart in Javascript using D3.js
 
 Version Control System (VCS) Analysis
 ===
 
-gource
+Gource
 ---
-Software projects are displayed by Gource as an animated tree with the root directory of the project at its centre. Directories appear as branches with files as leaves. Developers can be seen working on the tree at the times they contributed to the project.
+Software projects are displayed by [Gource](https://gource.io/) as an animated tree with the root directory of the project at its centre. Directories appear as branches with files as leaves. Developers can be seen working on the tree at the times they contributed to the project.
 
-https://gource.io/
-
-code maat
+Code Maat
 ---
-A command line tool to mine and analyze data from version-control systems
-
-https://github.com/adamtornhill/code-maat
-
+[Code Maat](https://github.com/adamtornhill/code-maat) is a command line tool to mine and analyze data from version-control systems
 
 Tracing
 ===
 
 opentracing
 ---
-Vendor-neutral APIs and instrumentation for distributed tracing
-
-https://opentracing.io/
+[Vendor-neutral](https://opentracing.io/) APIs and instrumentation for distributed tracing
 
 Zipkin
 ---
-Zipkin is a distributed tracing system.
-
-https://zipkin.io/
+[Zipkin](https://zipkin.io/) is a distributed tracing system.
 
 General Software Visualization Tools/Library
 ===
 
-plantuml
+Plantuml
 ---
-PlantUML is a component that allows to quickly write UML diagrams
+[PlantUML](http://plantuml.com/) is a component that allows to quickly write UML diagrams
 
-http://plantuml.com/
-
-graphviz
+Graphviz
 ---
-Graphviz is open source graph visualization software. Graph visualization is a way of representing structural information as diagrams of abstract graphs and networks.
-
-https://graphviz.gitlab.io/
-
+[Graphviz](https://graphviz.gitlab.io/) is open source graph visualization software. Graph visualization is a way of representing structural information as diagrams of abstract graphs and networks.
 
 References
 ===
