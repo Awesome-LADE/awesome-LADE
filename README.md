@@ -55,3 +55,6 @@ https://zipkin.io/
 Reference
 ---
 http://www.softviscollection.org/
+
+https://www.jointjs.com/
+JointJS can be used to create either static diagrams or fully interactive diagramming tools and application builders. 
