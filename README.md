@@ -46,6 +46,18 @@ Structure 101 (Java，Commercial)
 ---
 package structure, dependency matrices, tangles, coupling / cohesion
 
+JDepend (Java)
+---
+[JDepend](https://github.com/clarkware/jdepend) - A Java package dependency analyzer that generates design quality metrics.
+
+JDepend Maven Plugin (Java)
+---
+[JDepend Maven Plugin](http://www.mojohaus.org/jdepend-maven-plugin/) - This plugin produces a nicely formatted metrics report based on your project.
+
+Class Dependency Analyzer (Java)
+---
+[Class Dependency Analyzer](http://www.dependency-analyzer.org/) - The purpose of this tool is to analyze Java™ class files in order to learn more about the dependencies between those classes.
+
 slizaa
 ---
 [slizaa](http://www.slizaa.org/) A Free and Open Source Workbench for Software Dependency Analysis.
